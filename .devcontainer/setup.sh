@@ -28,7 +28,6 @@ systemctl start docker
 # Download and execute external scripts in WORKSPACE
 cd "/workspaces/noproto"
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/thorium.sh && bash thorium.sh
-curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/ognode.sh && bash ognode.sh
-curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/pipe.sh && bash pipe.sh
+curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/gaianet.sh && bash gaianet.sh
 
 echo "✅ Setup complete! ULTRA OPTIMIZED Codespace is READY 🚀🔥"
